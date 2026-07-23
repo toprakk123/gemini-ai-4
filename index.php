@@ -1,7 +1,7 @@
 <?php
 // Toprak AI - Gemini AQ Key Uyumlu index.php
 
-$apiKey = "BURAYA_AQ_ILE_BASLAYAN_KEYINIZI_YAZIN"; // AQ ile başlayan anahtarını buraya yapıştır
+$apiKey = "AQ.Ab8RN6ItWJP08IivJRn9GA4C7Cgp3li80_H6Og0S0YzdPu_Skw"; // AQ ile başlayan anahtarını buraya yapıştır
 $prompt = isset($_POST['prompt']) ? $_POST['prompt'] : '';
 $responseOutput = '';
 
